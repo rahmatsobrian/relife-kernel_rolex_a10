@@ -7,7 +7,6 @@
 
 clear
 SECONDS=0 # builtin bash timer
-DEFCONFIG="rolex_defconfig"
 kernel="out/arch/arm64/boot/Image.gz"
 
 export KBUILD_BUILD_USER=RahmatSobrian
