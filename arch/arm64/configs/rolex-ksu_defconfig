@@ -5,7 +5,7 @@ CONFIG_LOCALVERSION="-ReLife"
 CONFIG_SPOOF_ABOUT_PHONE=n
 # CONFIG_SPOOF_KERNEL_STRING_AP is not set
 # ====================================
-# EROFS ( still testing... )
+# EROFS ( still test )
 CONFIG_EROFS_FS=y
 # CONFIG_EROFS_FS_DEBUG is not set
 CONFIG_EROFS_FS_XATTR=y
